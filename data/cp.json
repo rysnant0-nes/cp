@@ -1,0 +1,1598 @@
+[
+  {
+    "name": "Pendidikan Agama Islam dan Budi Pekerti",
+    "fases": {
+      "A": {
+        "label": "A",
+        "heading": "Fase A (Umumnya untuk Kelas I dan II SD/MI/Program Paket A)",
+        "intro": "Pada akhir Fase A, murid memiliki kemampuan sebagai berikut.",
+        "elements": [
+          {
+            "number": "1.1.",
+            "title": "Al-Qur’an Hadis",
+            "text": "Memahami huruf hijaiah berharakat, huruf hijaiah bersambung, Surah al-Fātiḥah, beberapa surah pendek Al-Qur’an, dan hadis tentang kebersihan."
+          },
+          {
+            "number": "1.2.",
+            "title": "Akidah",
+            "text": "Memahami rukun iman, iman kepada Allah Swt., beberapa asmaulhusna, dan iman kepada malaikat."
+          },
+          {
+            "number": "1.3.",
+            "title": "Akhlak",
+            "text": "Memahami akhlak terhadap Allah Swt. dengan menyucikan dan memuji-Nya dan akhlak terhadap diri sendiri."
+          },
+          {
+            "number": "1.4.",
+            "title": "Fikih",
+            "text": "Memahami rukun Islam, syahadatain, tata cara bersuci, salat fardu, azan, ikamah, zikir, dan berdoa setelah salat."
+          },
+          {
+            "number": "1.5.",
+            "title": "Sejarah Peradaban Islam",
+            "text": "Memahami kisah beberapa nabi dan rasul."
+          }
+        ]
+      },
+      "B": {
+        "label": "B",
+        "heading": "Fase B (Umumnya untuk Kelas III dan IV SD/MI/Program Paket A)",
+        "intro": "Pada akhir Fase B, murid memiliki kemampuan sebagai berikut.",
+        "elements": [
+          {
+            "number": "2.1.",
+            "title": "Al-Qur’an Hadis",
+            "text": "Memahami beberapa surah pendek, ayat Al-Qur’an dan hadis tentang kewajiban salat dan menjaga hubungan baik dengan sesama."
+          },
+          {
+            "number": "2.2.",
+            "title": "Akidah",
+            "text": "Memahami sifat-sifat Allah Swt., beberapa asmaulhusna, iman kepada kitab-kitab Allah Swt. dan rasul-rasul Allah Swt."
+          },
+          {
+            "number": "2.3.",
+            "title": "Akhlak",
+            "text": "Memahami akhlak terhadap Allah Swt. dengan berbaik sangka kepada-Nya, akhlak terhadap orang tua, keluarga, dan pendidik."
+          },
+          {
+            "number": "2.4.",
+            "title": "Fikih",
+            "text": "Memahami puasa, salat jumat dan salat sunah, balig dan tanggung jawab yang menyertainya (taklīf)."
+          },
+          {
+            "number": "2.5.",
+            "title": "Sejarah Peradaban Islam",
+            "text": "Memahami kisah Nabi Muhammad saw. sebelum dan sesudah menjadi rasul periode Makkah."
+          }
+        ]
+      },
+      "C": {
+        "label": "C",
+        "heading": "Fase C (Umumnya untuk Kelas V dan VI SD/MI/Program Paket A)",
+        "intro": "Pada akhir Fase C, murid memiliki kemampuan sebagai berikut.",
+        "elements": [
+          {
+            "number": "3.1.",
+            "title": "Al-Qur’an Hadis",
+            "text": "Memahami beberapa surah pendek dan ayat Al-Qur’an serta hadis tentang keragaman."
+          },
+          {
+            "number": "3.2.",
+            "title": "Akidah",
+            "text": "Memahami beberapa asmaulhusna, iman kepada hari akhir, qadāʾ dan qadr."
+          },
+          {
+            "number": "3.3.",
+            "title": "Akhlak",
+            "text": "Memahami akhlak terhadap Allah Swt. dengan berdoa dan bertawakal kepada-Nya, akhlak terhadap teman, tetangga, non muslim, hewan, dan tumbuhan."
+          },
+          {
+            "number": "3.4.",
+            "title": "Fikih",
+            "text": "Memahami puasa sunah, zakat, infak, sedekah, hadiah, makanan dan minuman yang halal dan haram."
+          },
+          {
+            "number": "3.5.",
+            "title": "Sejarah Peradaban Islam",
+            "text": "Memahami kisah Nabi Muhammad saw. periode Madinah dan khulafaurasyidin."
+          }
+        ]
+      }
+    },
+    "id": "pai"
+  },
+  {
+    "name": "Pendidikan Agama Kristen dan Budi Pekerti",
+    "fases": {
+      "A": {
+        "label": "A",
+        "heading": "Fase A (Umumnya untuk Kelas I dan II SD/Program Paket A)",
+        "intro": "Pada akhir Fase A, murid memiliki kemampuan sebagai berikut.",
+        "elements": [
+          {
+            "number": "1.1.",
+            "title": "Elemen Allah Berkarya",
+            "text": ""
+          },
+          {
+            "number": "1.1.1.",
+            "title": "Subelemen Allah Pencipta",
+            "text": "Memahami Allah menciptakan dirinya sebagai pribadi yang istimewa dan membangun interaksi dengan lingkungan terdekat."
+          },
+          {
+            "number": "1.1.2.",
+            "title": "Subelemen Allah Pemelihara",
+            "text": "Memahami pemeliharaan Allah pada dirinya melalui kehadiran keluarga."
+          },
+          {
+            "number": "1.1.3.",
+            "title": "Subelemen Allah Penyelamat",
+            "text": "-"
+          },
+          {
+            "number": "1.1.4.",
+            "title": "Subelemen Allah Pembaru",
+            "text": ""
+          },
+          {
+            "number": "1.2.",
+            "title": "Elemen Manusia dan Nilai- nilai Kristiani",
+            "text": ""
+          },
+          {
+            "number": "1.2.1.",
+            "title": "Subelemen Hakikat Manusia",
+            "text": "Memahami diri sebagai pribadi yang bertumbuh dan berkembang."
+          },
+          {
+            "number": "1.2.2.",
+            "title": "Subelemen Nilai-nilai Kristiani",
+            "text": "Memahami makna kebaikan, ramah dan sopan di rumah dan di sekolah."
+          },
+          {
+            "number": "1.3.",
+            "title": "Elemen Gereja dan Masyarakat Majemuk",
+            "text": ""
+          },
+          {
+            "number": "1.3.1.",
+            "title": "Subelemen Tugas Panggilan Gereja",
+            "text": "Memahami keberadaan gereja sebagai wadah berkumpul dan beribadah serta kewajiban berdoa dan memuji Tuhan."
+          },
+          {
+            "number": "1.3.2.",
+            "title": "Subelemen Masyarakat Majemuk",
+            "text": "Memahami keragaman suku bangsa sebagai anugerah Allah."
+          },
+          {
+            "number": "1.4.",
+            "title": "Elemen Alam dan Lingkungan Hidup",
+            "text": ""
+          },
+          {
+            "number": "1.4.1.",
+            "title": "Subelemen Alam Ciptaan Allah",
+            "text": "Memahami alam dan lingkungan hidup sebagai ciptaan Allah."
+          },
+          {
+            "number": "1.4.2.",
+            "title": "Subelemen Tanggung Jawab Manusia Terhadap Alam",
+            "text": "Memahami tugas memelihara alam dan lingkungan hidup di rumah dan di sekolah."
+          }
+        ]
+      },
+      "B": {
+        "label": "B",
+        "heading": "Fase B (Umumnya untuk Kelas III dan IV SD/Program Paket A)",
+        "intro": "Pada akhir Fase B, murid memiliki kemampuan sebagai berikut.",
+        "elements": [
+          {
+            "number": "2.1.",
+            "title": "Elemen Allah Berkarya",
+            "text": ""
+          },
+          {
+            "number": "2.1.1.",
+            "title": "Subelemen Allah Pencipta",
+            "text": "Memahami Allah menciptakan flora dan fauna, serta manusia (perempuan dan laki-laki)."
+          },
+          {
+            "number": "2.1.2.",
+            "title": "Subelemen Allah Pemelihara",
+            "text": "Memahami pemeliharaan Allah pada dirinya dan melalui kehadiran orang-orang di sekitarnya."
+          },
+          {
+            "number": "2.1.3.",
+            "title": "Subelemen Allah Penyelamat",
+            "text": "Memahami Allah sebagai penyelamat."
+          },
+          {
+            "number": "2.1.4.",
+            "title": "Subelemen Allah Pembaru",
+            "text": "Mengenal Allah pembaru"
+          },
+          {
+            "number": "2.2.",
+            "title": "Elemen Manusia dan Nilai- nilai Kristiani",
+            "text": ""
+          },
+          {
+            "number": "2.2.1.",
+            "title": "Subelemen Hakikat Manusia",
+            "text": "Memahami diri sebagai makhluk individu dan sosial yang dapat bergaul dan bekerja sama dengan teman, saudara, dan orang tua."
+          },
+          {
+            "number": "2.2.2.",
+            "title": "Subelemen Nilai-nilai Kristiani",
+            "text": "Memahami sikap disiplin di rumah dan di sekolah."
+          },
+          {
+            "number": "2.3.",
+            "title": "Elemen Gereja dan Masyarakat Majemuk",
+            "text": ""
+          },
+          {
+            "number": "2.3.1.",
+            "title": "Subelemen Tugas Panggilan Gereja",
+            "text": "Memahami tugas panggilan gereja untuk bersekutu, bersaksi, dan melayani."
+          },
+          {
+            "number": "2.3.2.",
+            "title": "Subelemen Masyarakat Majemuk",
+            "text": "Memahami keragaman budaya dan agama sebagai anugerah Allah."
+          },
+          {
+            "number": "2.4.",
+            "title": "Elemen Alam dan Lingkungan Hidup",
+            "text": ""
+          },
+          {
+            "number": "2.4.1.",
+            "title": "Subelemen Alam Ciptaan Allah",
+            "text": "Memahami Allah hadir dalam berbagai fenomena alam."
+          },
+          {
+            "number": "2.4.2.",
+            "title": "Subelemen Tanggung Jawab Manusia Terhadap Alam",
+            "text": "Memahami upaya memelihara alam dan lingkungan sekitarnya."
+          }
+        ]
+      },
+      "C": {
+        "label": "C",
+        "heading": "Fase C (Umumnya untuk Kelas V dan VI SD/Program Paket A)",
+        "intro": "Pada akhir Fase C murid memiliki kemampuan sebagai berikut.",
+        "elements": [
+          {
+            "number": "3.1.",
+            "title": "Elemen Allah Berkarya",
+            "text": ""
+          },
+          {
+            "number": "3.1.1.",
+            "title": "Subelemen Allah Pencipta",
+            "text": "Memahami Allah Pencipta berkarya melalui keluarga, sekolah, dan masyarakat."
+          },
+          {
+            "number": "3.1.2.",
+            "title": "Subelemen Allah Pemelihara",
+            "text": "Memahami Allah memelihara seluruh umat manusia termasuk mereka yang berkebutuhan khusus."
+          },
+          {
+            "number": "3.1.3.",
+            "title": "Subelemen Allah Penyelamat",
+            "text": "Memahami Allah menyelamatkan manusia melalui Yesus Kristus."
+          },
+          {
+            "number": "3.1.4.",
+            "title": "Subelemen Allah Pembaru",
+            "text": "Memahami Allah membarui hidup Manusia."
+          },
+          {
+            "number": "3.2.",
+            "title": "Elemen Manusia dan Nilai- nilai Kristiani",
+            "text": ""
+          },
+          {
+            "number": "3.2.1.",
+            "title": "Subelemen Hakikat Manusia",
+            "text": "Memahami bahwa manusia adalah makhluk terbatas."
+          },
+          {
+            "number": "3.2.2.",
+            "title": "Subelemen Nilai-nilai Kristiani",
+            "text": "Memahami buah Roh dalam interaksi antarsesama."
+          },
+          {
+            "number": "3.3.",
+            "title": "Elemen Gereja dan Masyarakat Majemuk",
+            "text": ""
+          },
+          {
+            "number": "3.3.1.",
+            "title": "Subelemen Tugas Panggilan Gereja",
+            "text": "Memahami pelayanan terhadap sesama sebagai tanggung jawab orang beriman dalam kehidupan."
+          },
+          {
+            "number": "3.3.2.",
+            "title": "Subelemen Masyarakat Majemuk",
+            "text": "Memahami hidup rukun dan toleransi dalam masyarakat majemuk."
+          },
+          {
+            "number": "3.4.",
+            "title": "Elemen Alam dan Lingkungan Hidup",
+            "text": ""
+          },
+          {
+            "number": "3.4.1.",
+            "title": "Subelemen Alam Ciptaan Allah",
+            "text": "Memahami Allah hadir melalui alam ciptaan."
+          },
+          {
+            "number": "3.4.2.",
+            "title": "Subelemen Tanggung Jawab Manusia Terhadap Alam",
+            "text": "Memahami tanggung jawab orang beriman dalam memelihara alam dan lingkungan hidup."
+          }
+        ]
+      }
+    },
+    "id": "kristen"
+  },
+  {
+    "name": "Pendidikan Agama Katolik dan Budi Pekerti",
+    "fases": {
+      "A": {
+        "label": "A",
+        "heading": "Fase A (Umumnya untuk Kelas I dan II SD/Program Paket A)",
+        "intro": "Pada akhir Fase A, murid memiliki kemampuan sebagai berikut.",
+        "elements": [
+          {
+            "number": "1.1.",
+            "title": "Pribadi Peserta Didik",
+            "text": "Memahami dirinya sebagai pribadi yang dicintai Tuhan, memiliki anggota tubuh yang berguna, memahami cara merawat tubuhnya; memahami teman-teman, lingkungan rumah dan satuan pendidikan sebagai tempat mengembangkan potensi diri."
+          },
+          {
+            "number": "1.2.",
+            "title": "Yesus Kristus",
+            "text": "Memahami bahwa Tuhan menciptakan langit, bumi, dan seluruh isinya; memahami tokoh-tokoh iman di dalam Perjanjian Lama (Nuh, Abraham, Ishak, dan Yakub); memahami kisah kelahiran Tuhan Yesus, kisah tiga orang Majus, masa kanak-kanak Yesus di Nazaret, Yesus dipersembahkan di Bait Allah, dan berada di Bait Allah pada umur 12 tahun."
+          },
+          {
+            "number": "1.3.",
+            "title": "Gereja",
+            "text": "Memahami imannya dengan cara membuat tanda salib, berdoa Bapa Kami, Salam Maria, dan Kemuliaan; memahami iman dengan melaksanakan perintah Allah, dan membiasakan diri dengan berdoa pujian, syukur dan permohonan."
+          },
+          {
+            "number": "1.4.",
+            "title": "Masyarakat",
+            "text": "Memahami lingkungan keluarga, dan teman-teman, memiliki kebiasaan bekerja sama dengan anggota keluarga dan teman-teman; memahami iman di tengah masyarakat melalui kebiasaan hidup rukun dengan tetangga dan bergotong royong merawat lingkungan."
+          }
+        ]
+      },
+      "B": {
+        "label": "B",
+        "heading": "Fase B (Umumnya untuk Kelas III dan IV SD/Program Paket A)",
+        "intro": "Pada akhir Fase B, murid memiliki kemampuan sebagai berikut.",
+        "elements": [
+          {
+            "number": "2.1.",
+            "title": "Pribadi Peserta Didik",
+            "text": "Memahami dirinya sebagai pribadi yang tumbuh dan berkembang, mewujudkan iman dengan cara melakukan perbuatan baik; memahami diri sebagai pribadi yang unik, bersyukur dan bersedia mengembangkan keunikan diri bersama orang lain dan lingkungan sekitar."
+          },
+          {
+            "number": "2.2.",
+            "title": "Yesus Kristus",
+            "text": "Memahami karya keselamatan Allah melalui tokoh-tokoh Yusuf, Musa, dan Yosua; memahami Sepuluh Perintah Allah sebagai pedoman hidup; memahami bangsa Israel memasuki tanah terjanji, Allah memberkati pemimpin Israel (Samuel, Saul, dan Daud); memahami Yesus sebagai pemenuhan janji Allah yang mewartakan Kerajaan Allah melalui perkataan, perbuatan, dan mukjizat"
+          },
+          {
+            "number": "2.3.",
+            "title": "Gereja",
+            "text": "Murid memahami sakramen baptis, sakramen ekaristi, dan sakramen tobat; mengungkapkan rasa syukur dalam doa pribadi dan doa bersama, mewujudkan makna doa melalui sikap dan tindakan dalam kehidupan sehari-hari."
+          },
+          {
+            "number": "2.4.",
+            "title": "Masyarakat",
+            "text": "Mewujudkan imannya di tengah masyarakat melalui kebiasaan menghormati pemimpin masyarakat, menghargai tradisi masyarakat, melestarikan lingkungan alam; mewujudkan rasa hormat terhadap orang tua, menghormati hidup pribadi, menghormati milik orang lain."
+          }
+        ]
+      },
+      "C": {
+        "label": "C",
+        "heading": "Fase C (Umumnya untuk Kelas V dan VI SD/Program Paket A)",
+        "intro": "Pada akhir Fase C, murid memiliki kemampuan sebagai berikut",
+        "elements": [
+          {
+            "number": "3.1.",
+            "title": "Pribadi Peserta Didik",
+            "text": "Memahami diri sebagai perempuan atau laki-laki sebagai citra Allah yang sederajat dan saling melengkapi; memahami hak dan kewajiban dirinya sebagai warga negara dan bangga sebagai bangsa Indonesia; memahami diri sebagai warga dunia."
+          },
+          {
+            "number": "3.2.",
+            "title": "Yesus Kristus",
+            "text": "Memahami perjuangan tokoh-tokoh kitab suci: Daud sebagai pemimpin yang tangguh; Salomo yang bijaksana, dan Ester perempuan pemberani, serta tokoh Maria dan Elisabet yang setia dan berserah kepada Allah; meneladani Yesus yang taat kepada Allah; mengajarkan pengampunan, memanggil orang berdosa; menderita, wafat, dan bangkit; mengutus Roh Kudus untuk menguatkan para rasul, dan orang yang beriman kepada-Nya; memahami perjuangan Nabi Elia yang menobatkan bangsa Israel; Nabi Amos sebagai pejuang keadilan; dan Nabi Yesaya yang me-nubuat-kan kedatangan Juru Selamat; memahami Yesus yang mewartakan kerajaan Allah dengan perkataan dan perbuatan."
+          },
+          {
+            "number": "3.3.",
+            "title": "Gereja",
+            "text": "Mewujudkan iman dalam kehidupan sehari-hari, melibatkan diri dalam kehidupan menggereja, sebagai wujud kehidupan bersama yang dijiwai oleh Roh Kudus; memahami gereja yang satu, kudus, katolik, dan apostolik; persekutuan para kudus; pengampunan dosa, kebangkitan badan dan kehidupan kekal."
+          },
+          {
+            "number": "3.4.",
+            "title": "Masyarakat",
+            "text": "Memahami pentingnya terlibat aktif dalam pelestarian lingkungan, bersikap jujur, bertindak menurut hati nurani, menegakkan keadilan dalam hidup sehari-hari sebagai orang beriman kristiani, melakukan dialog antar umat beragama."
+          }
+        ]
+      }
+    },
+    "id": "katolik"
+  },
+  {
+    "name": "Pendidikan Agama Hindu dan Budi Pekerti",
+    "fases": {
+      "A": {
+        "label": "A",
+        "heading": "Fase A (Umumnya untuk Kelas I dan II SD/Program Paket A)",
+        "intro": "Pada akhir Fase A, murid memiliki kemampuan sebagai berikut.",
+        "elements": [
+          {
+            "number": "1.1.",
+            "title": "Kitab Suci Weda",
+            "text": "Memahami kitab Ramayana dan Mahabharata."
+          },
+          {
+            "number": "1.2.",
+            "title": "Sraddha dan Bhakti",
+            "text": "Memahami Hyang Widhi Wasa sebagai pencipta dan sumber hidup."
+          },
+          {
+            "number": "1.3.",
+            "title": "Susila",
+            "text": "Memahami Subha dan Asubha Karma, serta Tri Kaya Parisudha."
+          },
+          {
+            "number": "1.4.",
+            "title": "Acara",
+            "text": "Memahami Dainika Upasana dan sarana persembahyangan."
+          },
+          {
+            "number": "1.5.",
+            "title": "Sejarah Agama Hindu",
+            "text": "Memahami tokoh-tokoh kerajaan Hindu di Indonesia."
+          }
+        ]
+      },
+      "B": {
+        "label": "B",
+        "heading": "Fase B (Umumnya untuk Kelas III dan IV SD/Program Paket A)",
+        "intro": "Pada akhir Fase B, murid memiliki kemampuan sebagai berikut.",
+        "elements": [
+          {
+            "number": "2.1.",
+            "title": "Kitab Suci Weda",
+            "text": "Memahami kitab Purana."
+          },
+          {
+            "number": "2.2.",
+            "title": "Sraddha dan Bhakti",
+            "text": "Memahami Hyang Widhi Wasa sebagai Tri Murti dan Cadu Sakti."
+          },
+          {
+            "number": "2.3.",
+            "title": "Susila",
+            "text": "Memahami Tri Parartha dan Catur Paramitha."
+          },
+          {
+            "number": "2.4.",
+            "title": "Acara",
+            "text": "Memahami Hari Suci dan Tempat Suci agama Hindu sesuai kearifan lokal."
+          },
+          {
+            "number": "2.5.",
+            "title": "Sejarah Agama Hindu",
+            "text": "Memahami tokoh-tokoh kerajaan Hindu di Indonesia."
+          }
+        ]
+      },
+      "C": {
+        "label": "C",
+        "heading": "Fase C (Umumnya untuk Kelas V dan VI SD/Program Paket A)",
+        "intro": "Pada akhir Fase C, murid memiliki kemampuan sebagai berikut.",
+        "elements": [
+          {
+            "number": "3.1.",
+            "title": "Kitab Suci Weda",
+            "text": "Memahami Weda Sruti dan Weda Smerti."
+          },
+          {
+            "number": "3.2.",
+            "title": "Sraddha dan Bhakti",
+            "text": "Memahami Bhuana Agung dan Bhuana Alit."
+          },
+          {
+            "number": "3.3.",
+            "title": "Susila",
+            "text": "Memahami ajaran Catur Guru dan Catur Asrama."
+          },
+          {
+            "number": "3.4.",
+            "title": "Acara",
+            "text": "Memahami Panca Yadnya dan Manggalaning Yadnya."
+          },
+          {
+            "number": "3.5.",
+            "title": "Sejarah Agama Hindu",
+            "text": "Memahami Sejarah Perkembangan Agama Hindu di Indonesia."
+          }
+        ]
+      }
+    },
+    "id": "hindu"
+  },
+  {
+    "name": "Pendidikan Agama Buddha dan Budi Pekerti",
+    "fases": {
+      "A": {
+        "label": "A",
+        "heading": "Fase A (Umumnya untuk Kelas I dan II SD/Program Paket A)",
+        "intro": "Pada akhir Fase A, murid memiliki kemampuan sebagai berikut:",
+        "elements": [
+          {
+            "number": "1.1.",
+            "title": "Sejarah",
+            "text": "Memahami identitas diri dan keluarganya, serta memiliki keterbukaan untuk menghargai perbedaan identitas dan budaya teman-temannya di lingkungan rumah, sekolah, dan rumah ibadah. murid mengamalkan sifat-sifat kehidupan para Bodhisattva, para Buddha, siswa Buddha atau tokoh Buddhis inspiratif dalam menyayangi diri sendiri dengan menjaga kesehatan fisik dan batin, membiasakan diri untuk bersikap hormat dan menjaga ucapan di lingkungannya sesuai kisah Jataka."
+          },
+          {
+            "number": "1.2.",
+            "title": "Ritual",
+            "text": "Memahami identitas agama Buddha dan kepercayaan lainnya dalam suatu kelompok dengan anggota yang beragam identitas agama dan kepercayaan. murid memahami simbol-simbol keagamaan Buddha, agama dan kepercayaan lain di lingkungan rumah dan sekolahnya."
+          },
+          {
+            "number": "1.3.",
+            "title": "Etika",
+            "text": "Mengamalkan aturan dan sopan santun di lingkungan rumah, sekolah, dan rumah ibadah. murid memahami pergaulan untuk mempertahankan hidup dalam hubungannya dengan orang lain. murid memahami musyawarah sederhana untuk mufakat di lingkungan sekolahnya berlandaskan nilai-nilai empat sifat luhur, hukum karma dan Pancasila dasar negara berdasarkan pembelajaran ramah anak serta mencerminkan kehidupan yang moderat."
+          }
+        ]
+      },
+      "B": {
+        "label": "B",
+        "heading": "Fase B (Umumnya untuk Kelas III dan IV SD/Program Paket A)",
+        "intro": "Pada akhir Fase B, murid memiliki kemampuan sebagai berikut:",
+        "elements": [
+          {
+            "number": "2.1.",
+            "title": "Sejarah",
+            "text": "Memahami identitas Buddha Sakyamuni, sebagai dasar keyakinan terhadap Agama Buddha. murid memahami budaya dan bahasa dalam agama Buddha serta memiliki keterbukaan untuk menghargai perbedaan identitas dan budaya orang lain di lingkungan tempat tinggalnya. murid meneladan Buddha Sakyamuni dalam menghargai sesama manusia, menyelesaikan masalah pergaulan di lingkungan terdekatnya, lingkungan sekolah dan rumah ibadah."
+          },
+          {
+            "number": "2.2.",
+            "title": "Ritual",
+            "text": "Memahami doa Buddhis dalam kegiatan sehari-hari berdasarkan keyakinan kepada Ketuhanan Yang Maha Esa dan Triratna. murid menghargai identitas masing-masing aliran atau tradisi dalam agama Buddha dan bersatu dalam perbedaan."
+          },
+          {
+            "number": "2.3.",
+            "title": "Etika",
+            "text": "Mengamalkan nilai-nilai Pancasila Buddhis berlandaskan pada nilai-nilai Hukum Sebab Akibat yang Saling Bergantungan dalam melaksanakan aturan dan sopan santun; murid mengamalkan kesempurnaan (pāramī), sikap tolong menolong antarsesama dalam menyelesaikan masalah sosial, kebersihan, dan kelestarian lingkungan secara musyawarah mufakat di rumah, sekolah, dan rumah ibadah sebagai dasar keyakinan terhadap Agama Buddha, melalui pembelajaran ramah anak serta mencerminkan kehidupan yang moderat."
+          }
+        ]
+      },
+      "C": {
+        "label": "C",
+        "heading": "Fase C (Umumnya untuk Kelas V dan VI SD/Program Paket A)",
+        "intro": "Pada akhir Fase C, murid memiliki kemampuan sebagai berikut:",
+        "elements": [
+          {
+            "number": "3.1.",
+            "title": "Sejarah",
+            "text": "Meneladani Buddha Sakyamuni dalam menghadapi hambatan untuk meraih kesuksesan; meneladan kehidupan Buddha Sakyamuni dalam menyelesaikan masalah kehidupan individu dan sosial; murid memahami konsep dasar musyawarah mufakat dalam kehidupan Buddha Sakyamuni."
+          },
+          {
+            "number": "3.2.",
+            "title": "Ritual",
+            "text": "Memahami keragaman upacara puja dan meditasi ketenangan dari berbagai aliran atau tradisi Agama Buddha. murid mengamalkan sikap bersatu dalam perbedaan dengan berperan serta melakukan dialog moderasi beragama."
+          },
+          {
+            "number": "3.3.",
+            "title": "Etika",
+            "text": "Mengamalkan nilai-nilai Buddhadharma, Pancasila Buddhis, dan nilai-nilai Pancasila dasar negara berlandaskan pada nilai-nilai Hukum Sebab Akibat yang Saling Bergantungan. murid memahami hak dan kewajiban, permasalahan dan solusinya di rumah, sekolah, dan rumah ibadah sebagai dasar keyakinan terhadap Agama Buddha, melalui pembelajaran ramah anak serta mencerminkan kehidupan yang moderat."
+          }
+        ]
+      }
+    },
+    "id": "buddha"
+  },
+  {
+    "name": "Pendidikan Agama Khonghucu dan Budi Pekerti",
+    "fases": {
+      "A": {
+        "label": "A",
+        "heading": "Fase A (Umumnya untuk Kelas I dan II SD/Program Paket A)",
+        "intro": "Pada akhir Fase A, murid memiliki kemampuan sebagai berikut:",
+        "elements": [
+          {
+            "number": "1.1.",
+            "title": "Sejarah Suci",
+            "text": "Memahami riwayat dan keluarga Nabi Kŏngzĭ (孔 子), kisah keteladanan bakti para tokoh agama Khonghucu (Rújiào 儒教), kisah keteladanan sifat solidaritas sesama sahabat dari tokoh agama Khonghucu."
+          },
+          {
+            "number": "1.2.",
+            "title": "Kitab Suci",
+            "text": "Memahami ayat-ayat suci yang terdapat dalam kitab Bakti (Xiàojīng 孝经), Sìshū (四书) dan Wŭjīng (五经) yang berkaitan dengan kisah anak berbakti dan keteladanan Nabi Kŏngzĭ (孔子)."
+          },
+          {
+            "number": "1.3.",
+            "title": "Keimanan",
+            "text": "Memahami konsep Tiān (天) dalam agama Khonghucu bahwa manusia diciptakan Tiān (天) melalui kedua orang tua dan peran keberadaan leluhur dalam kehidupan manusia serta Nabi Kŏngzĭ (孔子) sebagai genta rohani Tiān (天), Tiān Zhī Mùduó (天之木铎)."
+          },
+          {
+            "number": "1.4.",
+            "title": "Tata Ibadah",
+            "text": "Memahami sikap dalam berdoa dan menghormat, sembahyang kepada Tiān (天), Nabi Kŏngzĭ (孔子), dan leluhur serta perlengkapan sembahyang di altar."
+          },
+          {
+            "number": "1.5.",
+            "title": "Perilaku Jūnzĭ (君子)",
+            "text": "Memahami sikap bakti dan hormat kepada orang tua sebagai wujud hormat kepada Tiān (天), pembiasaan berdoa sebelum maupun sesudah beraktivitas, dan sikap toleransi dengan teman, serta sikap tanggung jawab terhadap kebutuhan diri sendiri."
+          }
+        ]
+      },
+      "B": {
+        "label": "B",
+        "heading": "Fase B (Umumnya untuk Kelas III dan IV SD/Program Paket A)",
+        "intro": "Pada akhir Fase B, murid memiliki kemampuan sebagai berikut:",
+        "elements": [
+          {
+            "number": "2.1.",
+            "title": "Sejarah Suci",
+            "text": "Memahami tentang watak sejati (xìng 性) menurut pendapat Mèngzĭ (孟子), sikap teladan dari murid-murid Nabi Kŏngzĭ (孔子), riwayat Nabi Kŏngzĭ (孔子) sebagai genta rohani Tiān (天) (Tiān Zhī Mùduó 天之木铎), tugas suci pengembaraan Nabi Kŏngzĭ (孔子), Zhū Xī (朱熹) sebagai tokoh pembaharuan agama Khonghucu (Rújiào 儒教), keteladanan ibunda Nabi Kŏngzĭ (孔 子), ibunda Mèngzĭ (孟子), ibunda Ōuyáng Xiū (欧 阳修), dan ibunda Yuè Fēi (岳飛)."
+          },
+          {
+            "number": "2.2.",
+            "title": "Kitab Suci",
+            "text": "Memahami tiga kesukaan yang membawa faedah dan tiga kesukaan yang membawa celaka, bagian-bagian kitab suci yang pokok (Sìshū 四书) dan yang mendasari (Wŭjīng 五经), ayat dalam kitab Sìshū (四书) yang berkaitan dengan delapan kebajikan (bādé 八德)."
+          },
+          {
+            "number": "2.3.",
+            "title": "Keimanan",
+            "text": "Memahami makna persembahyangan kepada Tiān (天), Nabi Kŏngzĭ (孔子), para suci (shénmíng 神明) dan leluhur, tanda-tanda khusus menjelang wafat Nabi Kŏngzĭ (孔子), nilai-nilai delapan keimanan (bāchéngzhēnguī 八诚箴规), cita-cita mulia dan semangat belajar Nabi Kŏngzĭ (孔子)."
+          },
+          {
+            "number": "2.4.",
+            "title": "Tata Ibadah",
+            "text": "Memahami peralatan dan perlengkapan sembahyang dan penataannya di altar leluhur, tata cara menancapkan dupa dalam bersembahyang kepada Tiān (天), Nabi Kŏngzĭ (孔 子), para suci (shénmíng 神明) dan leluhur, sikap berdoa (bào xīn bādé 抱心八德), tata cara dan pelaksanaan ibadah di lĭtáng (礼堂)/miào (庙) /klenteng/kelenteng."
+          },
+          {
+            "number": "2.5.",
+            "title": "Perilaku Jūnzĭ (君子)",
+            "text": "Memahami sikap dan perilaku luhur Nabi Kŏngzĭ (孔子), teladan murid-murid Nabi Kŏngzĭ (孔子), menghargai waktu, berhati-hati, saling mengasihi sesama manusia, perilaku sesuai dengan delapan kebajikan (bādé八德), mudah bergaul tanpa membedakan, mau mengakui kesalahan dan memperbaiki diri."
+          }
+        ]
+      },
+      "C": {
+        "label": "C",
+        "heading": "Fase C (Umumnya untuk Kelas V dan VI SD/Program Paket A",
+        "intro": "Pada akhir Fase C, murid memiliki kemampuan sebagai berikut:",
+        "elements": [
+          {
+            "number": "3.1.",
+            "title": "Sejarah Suci",
+            "text": "Memahami wahyu Tiān (天) yang diterima oleh para nabi dan raja suci, tokoh-tokoh Rújiào (儒 教) serta sumbangsih pemikirannya, sejarah perkembangan agama Khonghucu di Indonesia."
+          },
+          {
+            "number": "3.2.",
+            "title": "Kitab Suci",
+            "text": "Memahami ayat-ayat dalam kitab Sìshū (四书) dan Wŭjīng (五经) tentang Nabi Kŏngzĭ (孔子) sebagai Tiān Zhī Mùduó (天之木铎), persaudaraan dalam pergaulan, rasa cinta tanah air, empat pantangan sìwù (四勿), dan yang berhubungan dengan konsep sāncái (三才)."
+          },
+          {
+            "number": "3.3.",
+            "title": "Keimanan",
+            "text": "Memahami bahwa sembahyang adalah pokok dari agama, definisi iman, hukum yīnyáng (阴阳) sebagai dasar hukum alam semesta, konsep Tiga Dasar Kenyataan (sāncái 三才)."
+          },
+          {
+            "number": "3.4.",
+            "title": "Tata Ibadah",
+            "text": "Memahami hari raya/sembahyang kepada Tiān (天), Nabi Kŏngzĭ (孔子), shénmíng (神明), dan leluhur sebagai wujud kesusilaan (lĭ 礼), perlengkapan dan peralatan sembahyang sehingga menumbuhkan keimanan dan kepribadian luhur."
+          },
+          {
+            "number": "3.5.",
+            "title": "Perilaku Jūnzĭ (君子)",
+            "text": "Memahami sikap cinta kasih kepada seluruh makhluk ciptaan Tiān (天), cinta tanah air, hidup tepa salira dan harmonis kepada sesama, bakti kepada Tiāndìrén (天地人), prinsip empat pantangan (sìwù 四勿) dan lima hubungan kemasyarakatan (wŭlún 五伦) dalam keseharian."
+          }
+        ]
+      }
+    },
+    "id": "khonghucu"
+  },
+  {
+    "name": "Pendidikan Pancasila",
+    "fases": {
+      "A": {
+        "label": "A",
+        "heading": "Fase A (Umumnya untuk Kelas I dan II SD/MI/Program Paket A)",
+        "intro": "Pada akhir Fase A, murid memiliki kemampuan sebagai berikut:",
+        "elements": [
+          {
+            "number": "1.1.",
+            "title": "Pancasila",
+            "text": "Mengenal bendera negara, lagu kebangsaan, simbol dan sila-sila Pancasila dalam lambang negara Garuda Pancasila dan simbol Pancasila beserta sila-sila Pancasila; menerapkan nilai-nilai Pancasila di lingkungan keluarga."
+          },
+          {
+            "number": "1.2.",
+            "title": "Undang-Undang Dasar Negara Republik Indonesia Tahun 1945",
+            "text": "Mengenal aturan di lingkungan keluarga; menunjukkan dan menceritakan sikap mematuhi aturan di lingkungan keluarga."
+          },
+          {
+            "number": "1.3.",
+            "title": "Bhinneka Tunggal Ika",
+            "text": "Mengenal semboyan Bhinneka Tunggal Ika; mengidentifikasi dan menghargai identitas dirinya sesuai dengan jenis kelamin, hobi, bahasa, serta agama dan kepercayaan di lingkungan sekitar."
+          },
+          {
+            "number": "1.4.",
+            "title": "Negara Kesatuan Republik Indonesia",
+            "text": "Mengenal karakteristik lingkungan tempat tinggal dan sekolah, sebagai bagian dari wilayah Negara Kesatuan Republik Indonesia; menceritakan dan mempraktikkan bekerja sama menjaga lingkungan sekitar dalam keberagaman."
+          }
+        ]
+      },
+      "B": {
+        "label": "B",
+        "heading": "Fase B (Umumnya untuk Kelas III dan IV SD/MI/Program Paket A)",
+        "intro": "Pada akhir Fase B, murid memiliki kemampuan sebagai berikut:",
+        "elements": [
+          {
+            "number": "2.1.",
+            "title": "Pancasila",
+            "text": "Mengidentifikasi makna sila-sila Pancasila, dan penerapannya dalam kehidupan sehari-hari; mengenal karakter para perumus Pancasila; menunjukkan sikap bangga menjadi anak Indonesia yang memiliki bahasa Indonesia sebagai bahasa persatuan di lingkungan sekitar."
+          },
+          {
+            "number": "2.2.",
+            "title": "Undang-Undang Dasar Negara Republik Indonesia Tahun 1945",
+            "text": "Mengidentifikasi dan melaksanakan aturan di sekolah dan lingkungan tempat tinggal; mengidentifikasi dan menerapkan hak yang didapat dan kewajiban sebagai anggota keluarga dan sebagai warga sekolah."
+          },
+          {
+            "number": "2.3.",
+            "title": "Bhinneka Tunggal Ika",
+            "text": "Membedakan dan menghargai identitas, keluarga, dan teman-temannya sesuai budaya, suku bangsa, bahasa, agama dan kepercayaannya di lingkungan sekitar."
+          },
+          {
+            "number": "2.4.",
+            "title": "Negara Kesatuan Republik Indonesia",
+            "text": "Mengidentifikasi lingkungan tempat tinggal (RT, RW, desa atau kelurahan, dan kecamatan) sebagai bagian dari wilayah Negara Kesatuan Republik Indonesia; menunjukkan perilaku bekerja sama dalam berbagai bentuk keberagaman suku bangsa, sosial, dan budaya di Indonesia yang terikat persatuan dan kesatuan di lingkungan sekitar."
+          }
+        ]
+      },
+      "C": {
+        "label": "C",
+        "heading": "Fase C (Umumnya untuk Kelas V dan VI SD/MI/Program Paket A)",
+        "intro": "Pada akhir Fase C, murid memiliki kemampuan sebagai berikut:",
+        "elements": [
+          {
+            "number": "3.1.",
+            "title": "Pancasila",
+            "text": "Memahami kronologi sejarah kelahiran Pancasila; meneladani sikap para perumus Pancasila dan menerapkan di lingkungan masyarakat; menghubungkan sila-sila dalam Pancasila sebagai suatu kesatuan yang utuh; menguraikan makna nilai-nilai Pancasila sebagai dasar negara, dan pandangan hidup bangsa."
+          },
+          {
+            "number": "3.2.",
+            "title": "Undang-Undang Dasar Negara Republik Indonesia Tahun 1945",
+            "text": "Mengimplementasikan bentuk-bentuk norma, hak, dan kewajiban dalam kedudukannya sebagai warga negara; mengenal Pembukaan Undang-Undang Dasar Negara Republik Indonesia tahun 1945; mempraktikkan musyawarah untuk membuat kesepakatan dan aturan bersama, serta menerapkannya dalam lingkungan keluarga dan sekolah."
+          },
+          {
+            "number": "3.3.",
+            "title": "Bhinneka Tunggal Ika",
+            "text": "Menyajikan hasil identifikasi sikap menghormati, menjaga, dan melestarikan keberagaman budaya sesuai semboyan dalam bingkai Bhinneka Tunggal Ika di lingkungan sekitar."
+          },
+          {
+            "number": "3.4.",
+            "title": "Negara Kesatuan Republik Indonesia",
+            "text": "Mengenal wilayahnya dalam konteks kabupaten/kota, dan provinsi sebagai bagian dari wilayah Negara Kesatuan Republik Indonesia; menunjukkan perilaku gotong royong untuk menjaga persatuan di lingkungan sekolah dan sekitar sebagai wujud bela negara."
+          }
+        ]
+      }
+    },
+    "id": "pancasila"
+  },
+  {
+    "name": "Bahasa Indonesia",
+    "fases": {
+      "A": {
+        "label": "A",
+        "heading": "Fase A (Umumnya untuk Kelas I dan II SD/MI/Program Paket A)",
+        "intro": "Pada akhir Fase A, murid memiliki kemampuan sebagai berikut.",
+        "elements": [
+          {
+            "number": "1.1.",
+            "title": "Menyimak",
+            "text": "Memahami informasi dari teks nonsastra berbentuk teks aural (teks yang dibacakan dan/atau didengarkan) berupa percakapan yang berkaitan dengan diri, keluarga, dan/atau lingkungan sekitar; dan memahami pesan teks sastra berbentuk teks aural."
+          },
+          {
+            "number": "1.2.",
+            "title": "Membaca dan Memirsa",
+            "text": "Membaca kata-kata sederhana dengan fasih dari bacaan dan/atau tayangan yang dipirsa tentang diri, keluarga, kesehatan, dan/atau lingkungan sekitar; dan memahami isi bacaan dan/atau tayangan yang dipirsa tentang diri, keluarga, kesehatan, dan/atau lingkungan sekitar."
+          },
+          {
+            "number": "1.3.",
+            "title": "Berbicara dan Mempresentasikan",
+            "text": "Merespons dengan bertanya tentang sesuatu, menjawab, dan menanggapi komentar orang lain (teman, pendidik, dan/atau orang dewasa) dengan baik dan santun dalam suatu percakapan tentang diri, keluarga, kesehatan, dan/atau lingkungan sekitar; mengungkapkan perasaan dan gagasan secara lisan dengan atau tanpa bantuan gambar; dan menceritakan kembali isi berbagai tipe teks yang dibaca, dipirsa, atau didengar tentang diri, keluarga, kesehatan, dan/atau lingkungan sekitar."
+          },
+          {
+            "number": "1.4.",
+            "title": "Menulis",
+            "text": "Menulis permulaan dengan benar di atas kertas dan/atau melalui media digital; mengembangkan tulisan tangan yang semakin baik; dan menulis berbagai tipe teks sederhana tentang diri, keluarga, dan/atau lingkungan sekitar dengan beberapa kalimat sederhana."
+          }
+        ]
+      },
+      "B": {
+        "label": "B",
+        "heading": "Fase B (Umumnya untuk Kelas III dan IV SD/MI/Program Paket A)",
+        "intro": "Pada akhir Fase B, murid memiliki kemampuan sebagai berikut.",
+        "elements": [
+          {
+            "number": "2.1.",
+            "title": "Menyimak",
+            "text": "Memahami ide pokok suatu informasi dari teks nonsastra berbentuk teks aural (teks yang dibacakan dan/atau didengarkan); dan memahami isi teks sastra berbentuk teks aural."
+          },
+          {
+            "number": "2.2.",
+            "title": "Membaca dan Memirsa",
+            "text": "Membaca kata-kata baru dengan fasih dari bacaan dan/atau tayangan yang dipirsa; dan memahami ide pokok, ide pendukung, pesan, dan informasi dalam teks sastra dan nonsastra berbentuk cetak dan/atau elektronik."
+          },
+          {
+            "number": "2.3.",
+            "title": "Berbicara dan Mempresentasikan",
+            "text": "Menyajikan pendapat dengan pilihan kata dan sikap tubuh/gestur yang sesuai, menggunakan volume dan intonasi yang tepat sesuai konteks; menanggapi diskusi sesuai tata cara; dan menceritakan kembali isi dan/atau informasi dari berbagai tipe teks yang dibaca, dipirsa, atau didengar."
+          },
+          {
+            "number": "2.4.",
+            "title": "Menulis",
+            "text": "Menulis berbagai tipe teks sederhana dengan rangkaian kalimat yang beragam; dan menggunakan kaidah kebahasaan dan kosakata baru yang memiliki makna denotatif untuk menulis teks sesuai dengan konteks."
+          }
+        ]
+      },
+      "C": {
+        "label": "C",
+        "heading": "Fase C (Umumnya untuk Kelas V dan VI SD/MI/Program Paket A)",
+        "intro": "Pada akhir Fase C, murid memiliki kemampuan sebagai berikut.",
+        "elements": [
+          {
+            "number": "3.1.",
+            "title": "Menyimak",
+            "text": "Menganalisis informasi dari teks nonsastra berbentuk teks aural (teks yang dibacakan dan/atau didengarkan; dan menganalisis isi teks sastra berbentuk teks aural."
+          },
+          {
+            "number": "3.2.",
+            "title": "Membaca dan Memirsa",
+            "text": "Membaca kata-kata dengan berbagai pola kombinasi huruf dengan fasih dari bacaan dan/atau tayangan yang dipirsa; dan menganalisis informasi serta nilai-nilai dalam teks sastra dan nonsastra berwujud teks visual dan/atau audiovisual."
+          },
+          {
+            "number": "3.3.",
+            "title": "Berbicara dan Mempresentasikan",
+            "text": "Mempresentasikan gagasan dari berbagai tipe teks dengan efektif dan santun; dan menyampaikan perasaan berdasarkan fakta, imajinasi (dari diri sendiri dan orang lain) secara indah dan menarik dalam bentuk teks sastra dengan penggunaan kosakata secara kreatif."
+          },
+          {
+            "number": "3.4.",
+            "title": "Menulis",
+            "text": "Menulis berbagai tipe teks sederhana berdasarkan gagasan, hasil pengamatan, pengalaman, dan/atau imajinasi dengan rangkaian kalimat kompleks secara kreatif, menarik, dan/atau indah; dan menggunakan kaidah kebahasaan dan kosakata baru yang memiliki makna denotatif dan konotatif."
+          }
+        ]
+      }
+    },
+    "id": "bindo"
+  },
+  {
+    "name": "Matematika",
+    "fases": {
+      "A": {
+        "label": "A",
+        "heading": "Fase A (Umumnya untuk Kelas I dan II SD/MI/Program Paket A)",
+        "intro": "Pada akhir Fase A, murid memiliki kemampuan sebagai berikut.",
+        "elements": [
+          {
+            "number": "1.1.",
+            "title": "Bilangan",
+            "text": "Menunjukkan pemahaman dan memiliki intuisi bilangan (number sense) pada bilangan cacah sampai 100; membaca, menulis, menentukan nilai tempat, membandingkan, mengurutkan, serta melakukan komposisi (menyusun) dan dekomposisi (mengurai) bilangan; melakukan operasi penjumlahan dan pengurangan menggunakan benda-benda konkret yang banyaknya sampai 20; dan menunjukkan pemahaman pecahan sebagai bagian dari keseluruhan melalui konteks membagi sebuah benda atau kumpulan benda sama banyak (pecahan yang diperkenalkan adalah setengah dan seperempat)."
+          },
+          {
+            "number": "1.2.",
+            "title": "Aljabar",
+            "text": "Menunjukan pemahaman makna simbol matematika \"=\" dalam suatu kalimat matematika yang terkait dengan penjumlahan dan pengurangan bilangan cacah sampai 20 menggunakan gambar. Contoh: Murid dapat mengenali, meniru, dan melanjutkan pola bukan bilangan (misalnya, gambar, warna, bunyi/suara)."
+          },
+          {
+            "number": "1.3.",
+            "title": "Pengukuran",
+            "text": "Membandingkan panjang dan berat benda secara langsung, dan membandingkan durasi waktu; mengukur dan mengestimasi panjang dan berat benda menggunakan satuan tidak baku."
+          },
+          {
+            "number": "1.4.",
+            "title": "Geometri",
+            "text": "Mengenal berbagai bangun datar (segitiga, segiempat, segi banyak, lingkaran) dan bangun ruang (balok, kubus, kerucut, dan bola); melakukan komposisi (penyusunan) dan dekomposisi (penguraian) suatu bangun datar (segitiga, segiempat, dan segi banyak); dan menentukan posisi benda terhadap benda lain (kanan, kiri, depan belakang, bawah, atas)."
+          },
+          {
+            "number": "1.5.",
+            "title": "Analisis Data dan Peluang",
+            "text": "Mengurutkan, menyortir, mengelompokkan, membandingkan, dan menyajikan data dari banyak benda dengan menggunakan turus dan piktogram paling banyak 4 kategori."
+          }
+        ]
+      },
+      "B": {
+        "label": "B",
+        "heading": "Fase B (Umumnya untuk Kelas III dan IV SD/MI/Program Paket A)",
+        "intro": "Pada akhir Fase B, murid memiliki kemampuan sebagai berikut.",
+        "elements": [
+          {
+            "number": "2.1.",
+            "title": "Bilangan",
+            "text": "Memiliki pemahaman dan intuisi bilangan (number sense) pada bilangan cacah sampai 10.000; membaca, menulis, membandingkan, dan mengurutkan bilangan; menentukan dan menggunakan nilai tempat; melakukan komposisi dan dekomposisi bilangan cacah sampai 10.000. Murid dapat melakukan dan menyelesaikan masalah operasi bilangan penjumlahan dan pengurangan bilangan cacah sampai 1.000; melakukan dan menyelesaikan masalah operasi perkalian dan pembagian bilangan cacah sampai 100 dengan bantuan benda konkret, gambar dan simbol; mengenal kelipatan dan faktor. Murid dapat melakukan perbandingan dan pengurutan pecahan dengan pembilang satu dan antar pecahan dengan penyebut yang sama; mengenal dan dapat menerapkan pecahan senilai, memiliki intuisi pecahan dan desimal, serta dapat menentukan pecahan sebagai desimal dan persen."
+          },
+          {
+            "number": "2.2.",
+            "title": "Aljabar",
+            "text": "Menemukan nilai yang tidak diketahui dalam kalimat matematika yang melibatkan penjumlahan dan pengurangan pada bilangan cacah sampai 100, dengan menggunakan sifat-sifat bilangan dan operasinya. Murid dapat mengidentifikasi, meniru, dan mengembangkan pola gambar atau objek sederhana dan pola bilangan membesar dan mengecil yang dapat melibatkan penjumlahan dan pengurangan pada bilangan cacah sampai 100."
+          },
+          {
+            "number": "2.3.",
+            "title": "Pengukuran",
+            "text": "Mengukur panjang dan berat benda menggunakan satuan baku; menentukan hubungan antar-satuan baku panjang (cm, m) dan antar-satuan berat (g, kg); serta mengukur dan mengestimasi luas dan volume menggunakan satuan tidak baku dan satuan baku berupa bilangan cacah."
+          },
+          {
+            "number": "2.4.",
+            "title": "Geometri",
+            "text": "Mendeskripsikan ciri berbagai bentuk bangun datar (segiempat, segitiga, segi banyak); menyusun (komposisi) dan mengurai (dekomposisi) berbagai bangun datar dengan lebih dari satu cara jika memungkinkan."
+          },
+          {
+            "number": "2.5.",
+            "title": "Analisis Data dan Peluang",
+            "text": "Mengurutkan, membandingkan, menyajikan, menganalisis dan menginterpretasi data dalam bentuk tabel, diagram gambar, piktogram, dan diagram batang (skala satu satuan)."
+          }
+        ]
+      },
+      "C": {
+        "label": "C",
+        "heading": "Fase C (Umumnya untuk Kelas V dan VI SD/MI/Program Paket A)",
+        "intro": "Pada akhir Fase C, murid memiliki kemampuan sebagai berikut.",
+        "elements": [
+          {
+            "number": "3.1.",
+            "title": "Bilangan",
+            "text": "Menunjukkan pemahaman dan intuisi bilangan (number sense) pada bilangan cacah sampai 1.000.000; membaca, menulis, menentukan nilai tempat, membandingkan, mengurutkan, melakukan komposisi dan dekomposisi bilangan; menyelesaikan masalah yang berkaitan dengan uang; melakukan operasi penjumlahan, pengurangan, perkalian, dan pembagian bilangan cacah sampai 100.000; serta menyelesaikan masalah yang berkaitan dengan KPK dan FPB. Murid dapat membandingkan dan mengurutkan berbagai pecahan termasuk pecahan campuran, melakukan operasi penjumlahan dan pengurangan pecahan, serta melakukan operasi perkalian dan pembagian pecahan dengan bilangan asli; mengubah pecahan menjadi berbagai bentuk pecahan lain, serta membandingkan dan mengurutkan bilangan desimal (satu angka di belakang koma)."
+          },
+          {
+            "number": "3.2.",
+            "title": "Aljabar",
+            "text": "Menemukan nilai yang belum diketahui dalam kalimat matematika yang melibatkan penjumlahan, pengurangan, perkalian, dan pembagian pada bilangan cacah sampai 1000 dengan menggunakan sifat-sifat bilangan dan operasinya. Murid dapat mengidentifikasi, meniru, dan mengembangkan pola bilangan membesar dan mengecil yang melibatkan perkalian dan pembagian; bernalar secara proporsional untuk menyelesaikan masalah sehari-hari dengan rasio satuan; menggunakan operasi perkalian dan pembagian dalam menyelesaikan masalah sehari- hari yang terkait dengan proporsi."
+          },
+          {
+            "number": "3.3.",
+            "title": "Pengukuran",
+            "text": "Menentukan keliling dan luas berbagai bentuk bangun datar (segitiga, segiempat, dan segi banyak) serta gabungannya; menghitung durasi waktu dan mengukur besar sudut pada bangun datar atau yang dibentuk dari dua garis berpotongan."
+          },
+          {
+            "number": "3.4.",
+            "title": "Geometri",
+            "text": "Mengkonstruksi dan mengurai bangun ruang (kubus, balok, dan gabungannya) dan mengenali visualisasi spasial (bagian depan, atas, dan samping); membandingkan karakteristik antar bangun datar dan antar bangun ruang; serta menentukan lokasi pada peta yang menggunakan sistem berpetak."
+          },
+          {
+            "number": "3.5.",
+            "title": "Analisis Data dan Peluang",
+            "text": "Mengurutkan, membandingkan, menyajikan, dan menganalisis data banyak benda dan data hasil pengukuran dalam bentuk gambar, piktogram, diagram batang, dan tabel frekuensi untuk mendapatkan informasi; menentukan kejadian dengan kemungkinan yang lebih besar atau lebih kecil dalam suatu percobaan acak."
+          }
+        ]
+      }
+    },
+    "id": "matematika"
+  },
+  {
+    "name": "Bahasa Inggris",
+    "fases": {
+      "B": {
+        "label": "B",
+        "heading": "Fase B (Umumnya untuk Kelas III dan IV SD/MI/Program Paket A)",
+        "intro": "Pada akhir fase B, murid memiliki kemampuan sebagai berikut.",
+        "elements": [
+          {
+            "number": "1.1.",
+            "title": "Menyimak-Berbicara (Listening-Speaking)",
+            "text": "Memahami dan merespon teks lisan atau teks multimodal sederhana tentang kehidupan sehari-hari baik secara verbal atau non-verbal sesuai konteks. (understand and respond to simple oral or multimodal texts about everyday life verbally or non-verbally in line with its context)"
+          },
+          {
+            "number": "1.2.",
+            "title": "Membaca-Memirsa (Reading-Viewing)",
+            "text": "Memahami teks tulis pendek sederhana atau teks multimodal tentang kehidupan sehari-hari dan meresponsnya secara verbal atau non-verbal sesuai konteks. (Understand simple short texts or multimodal texts about everyday life and respond to them verbally or non-verbally in line with its context)"
+          },
+          {
+            "number": "1.3.",
+            "title": "Menulis-Mempresentasikan (Writing-Presenting)",
+            "text": "Mengomunikasikan gagasan tentang topik sehari-hari dalam teks tulis pendek atau teks multimodal sesuai konteks. (Communicate their ideas on everyday life topics in simple written or multimodal texts in line with its context)"
+          }
+        ]
+      },
+      "C": {
+        "label": "C",
+        "heading": "Fase C (Umumnya untuk Kelas III dan IV SD/MI/Program Paket A)",
+        "intro": "Pada akhir fase C, murid memiliki kemampuan sebagai berikut.",
+        "elements": [
+          {
+            "number": "2.1.",
+            "title": "Menyimak-Berbicara (Listening-Writing)",
+            "text": "Memahami alur informasi teks secara keseluruhan dan merespon teks lisan atau teks multimodal sederhana tentang topik sehari-hari secara lisan dengan kalimat pendek dan sederhana sesuai konteks. (Understand the entire flow of information and respond to simple oral or multimodal texts about everyday topics using short and simple sentences verbally in line with its context)"
+          },
+          {
+            "number": "2.2.",
+            "title": "Membaca-Memirsa (Reading-Viewing)",
+            "text": "Memahami alur informasi secara keseluruhan, gagasan utama dan informasi rinci dari beragam teks pendek atau teks multimodal tentang topik sehari-hari dan meresponnya sesuai konteks. (Understand the entire flow of information, main ideas and details from a variety of short texts or multimodal texts about everyday topics and respond in line with its context)"
+          },
+          {
+            "number": "2.3.",
+            "title": "Menulis-Mempresentasikan (Writing-Presenting)",
+            "text": "Mengomunikasikan ide dan pengalamannya melalui berbagai jenis teks tulis sederhana atau teks multimodal tentang topik sehari-hari sesuai konteks. (Communicate their ideas and experiences through various types of simple written texts or multimodal texts about everyday topics in line with its context)"
+          }
+        ]
+      }
+    },
+    "id": "bing"
+  },
+  {
+    "name": "Ilmu Pengetahuan Alam dan Sosial",
+    "fases": {
+      "B": {
+        "label": "B",
+        "heading": "Fase B (Umumnya untuk Kelas III dan IV SD/MI/Program Paket A)",
+        "intro": "Pada akhir Fase B, murid memiliki kemampuan sebagai berikut.",
+        "elements": [
+          {
+            "number": "1.1.",
+            "title": "Pemahaman IPAS",
+            "text": "Menjelaskan bentuk dan fungsi pancaindra; menganalisis siklus hidup makhluk hidup dan upaya pelestariannya; menghasilkan solusi untuk masalah yang berkaitan dengan pelestarian sumber daya alam sebagai upaya mitigasi perubahan iklim; menyimpulkan proses perubahan wujud zat; menjelaskan sumber dan bentuk energi, serta proses perubahan bentuk energi dalam kehidupan sehari-hari; membedakan jenis gaya dan pengaruhnya terhadap arah, gerak, dan bentuk benda; menjelaskan peran, tugas, dan tanggung jawab serta interaksi sosial yang terjadi di sekitar tempat tinggal dan sekolah; mengenali letak kabupaten/kota dan provinsi tempat tinggalnya dengan menggunakan peta konvensional/digital; mengklasifikasikan ragam bentang alam dan keterkaitannya dengan profesi masyarakat, ragam budaya serta upaya untuk melestarikannya; menganalisis sejarah masyarakat di lingkungan tempat tinggal; menjelaskan nilai mata uang dan fungsinya, serta cara mengelola keuangan secara bijak."
+          },
+          {
+            "number": "1.2.",
+            "title": "Keterampilan Proses",
+            "text": "Mampu menerapkan keterampilan proses yang meliputi: ● Mengamati Murid mengamati fenomena dan peristiwa secara sederhana dan dapat mencatat hasil pengamatannya. ● Mempertanyakan dan Memprediksi Secara mandiri, murid mengajukan pertanyaan tentang hal-hal yang ingin diketahui saat melakukan pengamatan dan membuat prediksi berdasarkan pengetahuan yang dimiliki sebelumnya. ● Merencanakan dan Melakukan Penyelidikan Dengan panduan pendidik, murid membuat rencana dan melakukan langkah-langkah operasional untuk menjawab pertanyaan yang diajukan. Murid melakukan observasi menggunakan alat bantu pengukuran sederhana. ● Memproses, Menganalisis Data dan Informasi Dengan panduan pendidik, murid mengorganisasikan data dalam bentuk turus dan diagram gambar untuk menyajikan dan mengidentifikasi pola. Murid membandingkan antara hasil pengamatan dengan prediksi dan memberikan penjelasan. ● Mengevaluasi dan Refleksi Murid melakukan refleksi terhadap penyelidikan yang sudah dilakukan. ● Mengomunikasikan Hasil Murid mengomunikasikan hasil penyelidikan secara lisan dan tertulis dalam berbagai media."
+          }
+        ]
+      },
+      "C": {
+        "label": "C",
+        "heading": "Fase C (Umumnya untuk Kelas V dan VI SD/MI/Program Paket A)",
+        "intro": "Pada akhir Fase C, murid memiliki kemampuan sebagai berikut.",
+        "elements": [
+          {
+            "number": "2.1.",
+            "title": "Pemahaman IPAS",
+            "text": "Merefleksikan sistem organ tubuh manusia yang dikaitkan dengan cara menjaga kesehatan tubuhnya; menganalisis hubungan antar komponen biotik dan abiotik, serta pengaruhnya terhadap ekosistem; menjelaskan fenomena gelombang bunyi dan cahaya dalam kehidupan sehari-hari; menghasilkan upaya penghematan energi, serta pemanfaatan sumber energi alternatif dari sumber daya yang ada di sekitarnya sebagai upaya mitigasi perubahan iklim; menjelaskan sistem tata surya, serta kaitannya dengan rotasi dan revolusi bumi; menjelaskan letak dan kondisi geografis negara Indonesia dengan menggunakan peta konvensional/digital; meninjau sejarah perjuangan para pahlawan di lingkungan sekitar tempat tinggalnya; menemukan keragaman budaya nasional dalam konteks kebhinekaan berdasarkan pemahaman terhadap nilai-nilai kearifan lokal yang berlaku di wilayah tempat tinggal; serta menerapkan kegiatan ekonomi masyarakat di lingkungan sekitar."
+          },
+          {
+            "number": "2.2.",
+            "title": "Keterampilan Proses",
+            "text": "Mampu menerapkan keterampilan proses yang meliputi: ● Mengamati Murid mengamati fenomena dan peristiwa secara sederhana, mencatat hasil pengamatannya, serta mencari persamaan dan perbedaannya. ● Mempertanyakan dan Memprediksi Dengan panduan pendidik, murid mengidentifikasi pertanyaan yang dapat diselidiki secara ilmiah dan membuat prediksinya. ● Merencanakan dan Melakukan Penyelidikan Secara mandiri, murid merencanakan dan melakukan langkah-langkah operasional untuk menjawab pertanyaan yang diajukan. Murid melakukan observasi menggunakan alat bantu pengukuran sederhana. ● Memproses serta Menganalisis Data dan Informasi Murid mengolah data dalam bentuk tabel dan grafik, serta menjelaskan hasil pengamatan dan pola atau hubungan pada data. Murid membandingkan data dengan prediksi dan memberikan alasan berdasarkan bukti. ● Mengevaluasi dan Refleksi Melakukan refleksi dan memberikan saran perbaikan terhadap penyelidikan yang sudah dilakukan. ● Mengomunikasikan Hasil Murid mengomunikasikan hasil penyelidikan secara utuh yang ditunjang dengan argumen dalam berbagai media."
+          }
+        ]
+      }
+    },
+    "id": "ipas"
+  },
+  {
+    "name": "Seni Musik",
+    "fases": {
+      "A": {
+        "label": "A",
+        "heading": "Fase A (Umumnya untuk Kelas I dan II SD/MI/Program Paket A)",
+        "intro": "Pada akhir Fase A, murid memiliki kemampuan sebagai berikut:",
+        "elements": [
+          {
+            "number": "1.1.",
+            "title": "Mengalami (Experiencing)",
+            "text": "Mengenali unsur-unsur musik (nada dan irama) menggunakan anggota tubuh maupun alat musik."
+          },
+          {
+            "number": "1.2.",
+            "title": "Merefleksikan (Reflecting)",
+            "text": "Melakukan umpan balik mengenai praktik bermain musik diri sendiri atau orang lain menggunakan bahasa sehari-hari."
+          },
+          {
+            "number": "1.3.",
+            "title": "Berpikir dan Bekerja Artistik (Thinking and Working Artistically)",
+            "text": "Menirukan pola irama dan nada menggunakan alat musik ritmis atau melodis; mengenali ragam alat musik dan bunyi yang dihasilkan; mengenali cara memainkan dan membersihkan instrumen/alat musik."
+          },
+          {
+            "number": "1.4.",
+            "title": "Menciptakan (Creating)",
+            "text": "Membuat pola irama menggunakan anggota tubuh atau alat musik ritmis yang tersedia di lingkungan sekitar."
+          },
+          {
+            "number": "1.5.",
+            "title": "Berdampak (Impacting)",
+            "text": "Menunjukkan ekspresi senang dalam kegiatan bermusik."
+          }
+        ]
+      },
+      "B": {
+        "label": "B",
+        "heading": "Fase B (Umumnya untuk Kelas III dan IV SD/MI/Program Paket A)",
+        "intro": "Pada akhir Fase B, murid memiliki kemampuan sebagai berikut:",
+        "elements": [
+          {
+            "number": "2.1.",
+            "title": "Mengalami (Experiencing)",
+            "text": "Mengenali nada dan pola irama menggunakan anggota tubuh maupun alat musik."
+          },
+          {
+            "number": "2.2.",
+            "title": "Merefleksikan (Reflecting)",
+            "text": "Melakukan umpan balik mengenai praktik bermusik diri sendiri atau orang lain menggunakan istilah musik."
+          },
+          {
+            "number": "2.3.",
+            "title": "Berpikir dan Bekerja Artistik (Thinking and Working Artistically)",
+            "text": "Menirukan pola irama dan melodi menggunakan alat musik ritmis atau melodis; menyebutkan karakteristik ragam alat musik dan bunyi yang dihasilkan; mengetahui cara memainkan dan merawat alat musik."
+          },
+          {
+            "number": "2.4.",
+            "title": "Menciptakan (Creating)",
+            "text": "Membuat bunyi menggunakan anggota tubuh atau alat musik ritmis dan melodis yang tersedia di lingkungan sekitar."
+          },
+          {
+            "number": "2.5.",
+            "title": "Berdampak (Impacting)",
+            "text": "Menunjukkan minat dalam kegiatan bermusik."
+          }
+        ]
+      },
+      "C": {
+        "label": "C",
+        "heading": "Fase C (Umumnya untuk Kelas V dan VI SD/MI/Program Paket A)",
+        "intro": "Pada akhir Fase C, murid memiliki kemampuan sebagai berikut:",
+        "elements": [
+          {
+            "number": "3.1.",
+            "title": "Mengalami (Experiencing)",
+            "text": "Mengenali dan menerapkan unsur-unsur musik (nada, irama dan melodi) menggunakan alat musik ritmis dan melodis serta menunjukkan tingkat kepekaan akan unsur-unsur musik dengan menggunakan alat musik ritmis dan melodis."
+          },
+          {
+            "number": "3.2.",
+            "title": "Merefleksikan (Reflecting)",
+            "text": "Melakukan umpan balik mengenai karya dan kemampuan bermusik diri sendiri atau orang lain menggunakan istilah musik yang tepat."
+          },
+          {
+            "number": "3.3.",
+            "title": "Berpikir dan Bekerja Artistik (Thinking and Working Artistically)",
+            "text": "Mengeksplorasi variasi pola irama, tempo dan melodi dengan alat musik ritmis dan melodis menggunakan notasi musik dan teknik dasar yang telah dipelajari; menemukan alternatif untuk menghasilkan bunyi musik sederhana melalui eksplorasi material yang tersedia di lingkungan sekitar dan menerapkan cara memainkan dan merawat alat musik dengan teknik yang tepat sesuai dengan spesifikasi bahan alat musik."
+          },
+          {
+            "number": "3.4.",
+            "title": "Menciptakan (Creating)",
+            "text": "Membuat dan mengembangkan pola irama menggunakan anggota tubuh atau alat musik ritmis yang tersedia berdasarkan nilai kearifan lokal daerahnya."
+          },
+          {
+            "number": "3.5.",
+            "title": "Berdampak (Impacting)",
+            "text": "Menunjukkan minat dan rasa ingin tahu dalam kegiatan bermusik."
+          }
+        ]
+      }
+    },
+    "id": "seni-musik"
+  },
+  {
+    "name": "Seni Rupa",
+    "fases": {
+      "A": {
+        "label": "A",
+        "heading": "Fase A (Umumnya untuk Kelas I dan II SD/MI/Program Paket A)",
+        "intro": "Pada akhir Fase A, murid memiliki kemampuan sebagai berikut.",
+        "elements": [
+          {
+            "number": "1.1.",
+            "title": "Mengalami (Experiencing)",
+            "text": "Mengenali dan menyebutkan unsur-unsur rupa dalam benda-benda di sekitar/karya seni rupa."
+          },
+          {
+            "number": "1.2.",
+            "title": "Merefleksikan (Reflecting)",
+            "text": "Merefleksikan dan mengapresiasi karya diri sendiri."
+          },
+          {
+            "number": "1.3.",
+            "title": "Berpikir dan Bekerja Artistik (Thinking and Working Artistically)",
+            "text": "Mengenali dan menguji coba alat dan/atau bahan yang dimiliki."
+          },
+          {
+            "number": "1.4.",
+            "title": "Menciptakan (Making/Creating)",
+            "text": "Membuat karya seni rupa berdasarkan pengalaman dan hasil pengamatan terhadap lingkungan sekitar."
+          },
+          {
+            "number": "1.5.",
+            "title": "Berdampak (Impacting)",
+            "text": "Menghasilkan karya seni rupa yang berdampak pada perasaan dirinya."
+          }
+        ]
+      },
+      "B": {
+        "label": "B",
+        "heading": "Fase B (Umumnya untuk Kelas III dan IV SD/MI/Program Paket A)",
+        "intro": "Pada akhir Fase B, murid memiliki kemampuan sebagai berikut.",
+        "elements": [
+          {
+            "number": "2.1.",
+            "title": "Mengalami (Experiencing)",
+            "text": "Mengidentifikasi unsur rupa dan prinsip desain dalam benda-benda di sekitar/karya seni rupa."
+          },
+          {
+            "number": "2.2.",
+            "title": "Merefleksikan (Reflecting)",
+            "text": "Merefleksikan dan mengapresiasi karya diri sendiri dan teman sekelas menggunakan kosa kata seni rupa yang sesuai."
+          },
+          {
+            "number": "2.3.",
+            "title": "Berpikir dan Bekerja Artistik (Thinking and Working Artistically)",
+            "text": "Mengenali dan menguji coba alat dan/atau bahan yang dimiliki serta prosedur penggunaannya."
+          },
+          {
+            "number": "2.4.",
+            "title": "Menciptakan (Making/Creating)",
+            "text": "Membuat karya seni rupa berdasarkan pengalaman dan hasil pengamatan terhadap lingkungan sekitar."
+          },
+          {
+            "number": "2.5.",
+            "title": "Berdampak (Impacting)",
+            "text": "Menghasilkan karya seni rupa yang berdampak pada perasaan atau mewakili harapannya."
+          }
+        ]
+      },
+      "C": {
+        "label": "C",
+        "heading": "Fase C (Umumnya untuk Kelas V dan VI SD/MI/Program Paket A)",
+        "intro": "Pada akhir Fase C, murid memiliki kemampuan sebagai berikut.",
+        "elements": [
+          {
+            "number": "3.1.",
+            "title": "Mengalami (Experiencing)",
+            "text": "Menjelaskan unsur rupa dan prinsip desain dalam benda-benda di sekitar/karya seni rupa."
+          },
+          {
+            "number": "3.2.",
+            "title": "Merefleksikan (Reflecting)",
+            "text": "Merefleksikan dan mengapresiasi karya diri sendiri dan teman sekelas menggunakan kosa kata seni rupa yang sesuai."
+          },
+          {
+            "number": "3.3.",
+            "title": "Berpikir dan Bekerja Artistik (Thinking and Working Artistically)",
+            "text": "Mengenali dan menguji coba variasi teknik penggunaan alat dan/atau bahan."
+          },
+          {
+            "number": "3.4.",
+            "title": "Menciptakan (Making/Creating)",
+            "text": "Membuat karya seni rupa berdasarkan pengalaman dan/atau hasil pengamatan terhadap lingkungan sekitar melalui pengembangan imajinasi."
+          },
+          {
+            "number": "3.5.",
+            "title": "Berdampak (Impacting)",
+            "text": "Menghasilkan karya seni rupa yang mewakili minatnya."
+          }
+        ]
+      }
+    },
+    "id": "seni-rupa"
+  },
+  {
+    "name": "Seni Tari",
+    "fases": {
+      "A": {
+        "label": "A",
+        "heading": "Fase A (Umumnya untuk Kelas I dan II SD/MI/Program Paket A)",
+        "intro": "Pada akhir Fase A, murid memiliki kemampuan sebagai berikut.",
+        "elements": [
+          {
+            "number": "1.1.",
+            "title": "Mengalami (Experiencing)",
+            "text": "Mengenal bentuk tari sebagai media komunikasi serta mengembangkan kesadaran diri dalam bereksplorasi unsur utama tari meliputi gerak, ruang, tenaga, waktu, gerak di tempat dan gerak berpindah."
+          },
+          {
+            "number": "1.2.",
+            "title": "Merefleksikan (Reflecting)",
+            "text": "Mengidentifikasi unsur utama tari meliputi gerak, ruang, tenaga, waktu, gerak di tempat dan gerak berpindah, serta mengemukakan pencapaian diri secara lisan, tulisan, dan kinestetik."
+          },
+          {
+            "number": "1.3.",
+            "title": "Berpikir dan Bekerja Artistik (Thinking and Working Artistically)",
+            "text": "Meragakan hasil gerak berdasarkan etika sebagai penampil dan penonton dengan keyakinan dan percaya diri saat mengekspresikan ide, perasaan kepada penonton atau lingkungan sekitar."
+          },
+          {
+            "number": "1.4.",
+            "title": "Menciptakan (Creating)",
+            "text": "Mengembangkan unsur utama tari (gerak, ruang, waktu, dan tenaga), gerak di tempat, dan gerak berpindah untuk membuat gerak sederhana yang memiliki kesatuan gerak yang indah."
+          },
+          {
+            "number": "1.5.",
+            "title": "Berdampak (Impacting)",
+            "text": "Menerima proses pembelajaran sehingga tumbuh rasa ingin tahu dan dapat menunjukkan antusiasme yang berdampak pada kemampuan diri dalam menyelesaikan aktivitas pembelajaran tari."
+          }
+        ]
+      },
+      "B": {
+        "label": "B",
+        "heading": "Fase B (Umumnya untuk Kelas III dan IV SD/MI/Program Paket A)",
+        "intro": "Pada akhir Fase B, murid memiliki kemampuan sebagai berikut.",
+        "elements": [
+          {
+            "number": "2.1.",
+            "title": "Mengalami (Experiencing)",
+            "text": "Mengamati bentuk penyajian tari berdasarkan latar belakang serta mengeksplorasi unsur utama tari sesuai level gerak, dan perubahan arah hadap."
+          },
+          {
+            "number": "2.2.",
+            "title": "Merefleksikan (Reflecting)",
+            "text": "Mengidentifikasi unsur utama tari sesuai level gerak, dan perubahan arah hadap, serta menilai pencapaian diri saat melakukan aktivitas pembelajaran tari."
+          },
+          {
+            "number": "2.3.",
+            "title": "Berpikir dan Bekerja Artistik (Thinking and Working Artistically)",
+            "text": "Meragakan hasil tari dengan bekerja secara kooperatif untuk mengembangkan kemampuan bekerja sama dan saling menghargai demi tercapainya tujuan bersama."
+          },
+          {
+            "number": "2.4.",
+            "title": "Menciptakan (Creating)",
+            "text": "Mengembangkan gerak dengan unsur utama tari, level, dan perubahan arah hadap."
+          },
+          {
+            "number": "2.5.",
+            "title": "Berdampak (Impacting)",
+            "text": "Menerima proses pembelajaran sehingga tumbuh rasa ingin tahu dan dapat menunjukkan usaha yang berdampak pada kemampuan diri dalam menyelesaikan aktivitas pembelajaran tari."
+          }
+        ]
+      },
+      "C": {
+        "label": "C",
+        "heading": "Fase C (Umumnya untuk Kelas V dan VI SD/MI/Program Paket A)",
+        "intro": "Pada akhir Fase C, murid memiliki kemampuan sebagai berikut.",
+        "elements": [
+          {
+            "number": "3.1.",
+            "title": "Mengalami (Experiencing)",
+            "text": "Mengamati berbagai bentuk tari tradisi yang dapat digunakan untuk mengekspresikan diri melalui unsur pendukung tari."
+          },
+          {
+            "number": "3.2.",
+            "title": "Merefleksikan (Reflecting)",
+            "text": "Mengidentifikasi unsur pendukung tari dalam tari tradisi serta menghargai hasil pencapaian diri dengan mempertimbangkan pendapat orang lain."
+          },
+          {
+            "number": "3.3.",
+            "title": "Berpikir dan Bekerja Artistik (Thinking and Working Artistically)",
+            "text": "Meragakan hasil rangkaian gerak tari menggunakan unsur pendukung tari dengan menunjukan kerja sama dan berperan aktif dalam kelompok."
+          },
+          {
+            "number": "3.4.",
+            "title": "Menciptakan (Creating)",
+            "text": "Merangkai gerak tari yang berpijak pada tradisi/ kreasi dengan menerapkan desain kelompok."
+          },
+          {
+            "number": "3.5.",
+            "title": "Berdampak (Impacting)",
+            "text": "Menanggapi kejadian-kejadian di lingkungan sekitar melalui tari yang disajikan kepada penonton atau masyarakat sekitar."
+          }
+        ]
+      }
+    },
+    "id": "seni-tari"
+  },
+  {
+    "name": "Seni Teater",
+    "fases": {
+      "A": {
+        "label": "A",
+        "heading": "Fase A (Umumnya untuk Kelas I dan II SD/MI/Program Paket A)",
+        "intro": "Pada akhir fase A, murid memiliki kemampuan sebagai berikut.",
+        "elements": [
+          {
+            "number": "1.1.",
+            "title": "Mengalami (Experiencing)",
+            "text": "Mengamati, merespons, meniru gerak tubuh dan suara sebagai media untuk mengomunikasikan emosi."
+          },
+          {
+            "number": "1.2.",
+            "title": "Merefleksikan (Reflection)",
+            "text": "Mengenali pengalaman dan emosi selama proses berseni teater serta menceritakan sebuah karya dengan kosakata sehari-hari."
+          },
+          {
+            "number": "1.3.",
+            "title": "Berpikir dan Bekerja Artistik (Thinking and Working Artistically)",
+            "text": "Mengenal jenis-jenis properti/alat bantu yang dapat mendukung cerita/permainan peran."
+          },
+          {
+            "number": "1.4.",
+            "title": "Menciptakan (Creating)",
+            "text": "Mengeksplorasi beragam peran mengenai tokoh di sekitar atau rekaan, dan memainkan sebuah lakon pertunjukan."
+          },
+          {
+            "number": "1.5.",
+            "title": "Berdampak (Impacting)",
+            "text": "Memainkan gerak dan lagu sesuai arahan dari pendidik."
+          }
+        ]
+      },
+      "B": {
+        "label": "B",
+        "heading": "Fase B (Umumnya untuk Kelas III dan IV SD/MI/Program Paket A)",
+        "intro": "Pada akhir fase B, murid memiliki kemampuan sebagai berikut.",
+        "elements": [
+          {
+            "number": "2.1.",
+            "title": "Mengalami (Experiencing)",
+            "text": "Mengenal teknik dasar akting (pemeranan) melalui proses meniru (mimesis), mengenal gerak tubuh, suara/vokal sesuai tokoh/peran atau perilaku objek sekitar."
+          },
+          {
+            "number": "2.2.",
+            "title": "Merefleksikan (Reflection)",
+            "text": "Mengenali lingkungan sekitarnya dan pengalaman dalam bermain teater."
+          },
+          {
+            "number": "2.3.",
+            "title": "Bekerja Secara Artistik (Thinking and Working Artistically)",
+            "text": "Menggunakan properti yang sesuai dengan tokoh yang diperankan."
+          },
+          {
+            "number": "2.4.",
+            "title": "Menciptakan (Creating)",
+            "text": "Mengamati berbagai peran, mengenal tokoh di sekitar, dan memainkan sebuah lakon dalam cerita."
+          },
+          {
+            "number": "2.5.",
+            "title": "Berdampak (Impacting)",
+            "text": "Mengenal bentuk lakon dalam bermain teater."
+          }
+        ]
+      },
+      "C": {
+        "label": "C",
+        "heading": "Fase C (Umumnya untuk Kelas V dan VI SD/MI/Program Paket A)",
+        "intro": "Pada akhir fase C, murid memiliki kemampuan sebagai berikut.",
+        "elements": [
+          {
+            "number": "3.1.",
+            "title": "Mengalami (Experiencing)",
+            "text": "Melakukan permainan peran berkelompok, seperti improvisasi untuk melatih aksi dan reaksi dalam mengelaborasi cerita atau tokoh dan melakukan pengenalan karakter melalui pengamatan kebiasaan tokoh yang diperankan."
+          },
+          {
+            "number": "3.2.",
+            "title": "Merefleksikan (Reflection)",
+            "text": "Menceritakan pendapatnya tentang sebuah cerita sederhana (penokohan, perwatakan)."
+          },
+          {
+            "number": "3.3.",
+            "title": "Berpikir dan Bekerja Artistik (Thinking and Working Artistically)",
+            "text": "Mengidentifikasi properti sederhana berdasarkan cerita yang akan dimainkan."
+          },
+          {
+            "number": "3.4.",
+            "title": "Menciptakan (Creating)",
+            "text": "Mengenal dan memainkan ragam peran dari cerita sederhana berdasarkan hasil pengamatan."
+          },
+          {
+            "number": "3.5.",
+            "title": "Berdampak (Impacting)",
+            "text": "Memerankan lakon secara individu maupun berkelompok berdasarkan minat, pengamatan, dan pengalaman."
+          }
+        ]
+      }
+    },
+    "id": "seni-teater"
+  },
+  {
+    "name": "Pendidikan Jasmani, Olahraga, dan Kesehatan",
+    "fases": {
+      "A": {
+        "label": "A",
+        "heading": "Fase A (Umumnya untuk Kelas I dan II SD/MI/Program Paket A)",
+        "intro": "Pada akhir Fase A, murid memiliki kemampuan sebagai berikut.",
+        "elements": [
+          {
+            "number": "1.1.",
+            "title": "Terampil Bergerak",
+            "text": "Mempraktikkan keterampilan gerak fundamental dan menerapkannya dalam berbagai situasi gerak yang berbeda; mengeksplorasi berbagai strategi gerak; dan mengeksplorasi berbagai konsep gerak serta menyimpulkan efektivitasnya."
+          },
+          {
+            "number": "1.2.",
+            "title": "Belajar Melalui Gerak",
+            "text": "Menaati peraturan untuk menumbuhkan fair play di dalam berbagai aktivitas jasmani; menerapkan strategi kolaborasi ketika berpartisipasi dalam aktivitas jasmani."
+          },
+          {
+            "number": "1.3.",
+            "title": "Bergaya Hidup Aktif",
+            "text": "Berpartisipasi di dalam berbagai aktivitas jasmani dan mengidentifikasi manfaatnya."
+          },
+          {
+            "number": "1.4.",
+            "title": "Memilih Hidup yang Menyehatkan",
+            "text": "Mengenali gaya hidup aktif dan sehat; mengenali manfaat komponen makanan bergizi seimbang; serta mengenali situasi dan potensi yang berisiko terhadap kesehatan dan keselamatan serta strategi mencari bantuan kepada orang dewasa terpercaya."
+          }
+        ]
+      },
+      "B": {
+        "label": "B",
+        "heading": "Fase B (Umumnya untuk Kelas III dan IV SD/MI/Program Paket A)",
+        "intro": "Pada akhir Fase B, murid memiliki kemampuan sebagai berikut.",
+        "elements": [
+          {
+            "number": "2.1.",
+            "title": "Terampil Bergerak",
+            "text": "Menghaluskan keterampilan gerak fundamental dan menerapkannya dalam situasi gerak yang baru; menyesuaikan strategi gerak untuk mendapatkan capaian keterampilan gerak; dan memperagakan berbagai konsep gerak yang dapat diterapkan dalam rangkaian gerak."
+          },
+          {
+            "number": "2.2.",
+            "title": "Belajar Melalui Gerak",
+            "text": "Menerapkan strategi gerak sederhana dan memecahkan masalah gerak; menerapkan peraturan untuk menumbuhkan fair play di dalam berbagai aktivitas jasmani; dan berpartisipasi secara positif dalam kelompok atau tim di dalam berbagai aktivitas jasmani."
+          },
+          {
+            "number": "2.3.",
+            "title": "Bergaya Hidup Aktif",
+            "text": "Berpartisipasi dalam berbagai aktivitas jasmani dan mengenali faktor-faktor yang menyebabkan aktivitas jasmani menyenangkan."
+          },
+          {
+            "number": "2.4.",
+            "title": "Memilih Hidup yang Menyehatkan",
+            "text": "Mengenali risiko kesehatan akibat gaya hidup dan berbagai aktivitas jasmani untuk pencegahannya; mengidentifikasi pola makan sehat dan bergizi seimbang sesuai rekomendasi kesehatan untuk menunjang aktivitas sehari-hari; dan mempraktikkan penanganan cedera ringan sesuai pemahaman tentang prinsip pertolongan pertama."
+          }
+        ]
+      },
+      "C": {
+        "label": "C",
+        "heading": "Fase C (Umumnya untuk Kelas V dan VI SD/MI/Program Paket A)",
+        "intro": "Pada akhir Fase C, murid memiliki kemampuan sebagai berikut.",
+        "elements": [
+          {
+            "number": "3.1.",
+            "title": "Terampil Bergerak",
+            "text": "Menyesuaikan keterampilan gerak melintasi berbagai situasi gerak; mentransfer strategi gerak yang sudah dikuasai ke dalam berbagai situasi gerak yang berbeda; dan menginvestigasi berbagai konsep gerak yang dapat diterapkan untuk meningkatkan capaian keterampilan gerak"
+          },
+          {
+            "number": "3.2.",
+            "title": "Belajar Melalui Gerak",
+            "text": "Menguji efektivitas penerapan strategi gerak dalam berbagai situasi gerak; merancang peraturan alternatif dan modifikasi permainan untuk mendukung fair play dan partisipasi inklusif; dan menjalankan berbagai peran untuk mencapai keberhasilan kelompok atau tim di dalam berbagai aktivitas jasmani."
+          },
+          {
+            "number": "3.3.",
+            "title": "Bergaya Hidup Aktif",
+            "text": "Berpartisipasi dalam aktivitas jasmani dan menjelaskan pengaruh aktivitas jasmani yang teratur terhadap kesehatan; mengidentifikasi rekomendasi aktivitas jasmani serta pencegahan perilaku sedenter."
+          },
+          {
+            "number": "3.4.",
+            "title": "Memilih Hidup yang Menyehatkan",
+            "text": "Mengidentifikasi dan menghubungkan antara gaya hidup, risiko kesehatan, dan aktivitas pencegahannya sesuai rekomendasi otoritas kesehatan; menjelaskan pola makan sehat untuk menunjang aktivitas jasmani berdasarkan informasi kandungan gizi pada makanan; dan mempraktikkan penanganan cedera sedang sesuai pemahaman tentang prinsip pertolongan pertama."
+          }
+        ]
+      }
+    },
+    "id": "pjok"
+  },
+  {
+    "name": "Koding dan Kecerdasan Artifisial",
+    "fases": {
+      "C": {
+        "label": "C",
+        "heading": "Fase C (Umumnya untuk Kelas V dan VI SD/MI)",
+        "intro": "Pada akhir Fase C, murid memiliki kemampuan sebagai berikut.",
+        "elements": [
+          {
+            "number": "1.1.",
+            "title": "Berpikir Komputasional",
+            "text": "Memahami permasalahan sederhana dalam kehidupan sehari-hari, menerapkan pemecahan masalah secara sistematis, serta menuliskan instruksi logis dan terstruktur menggunakan sekumpulan kosakata atau simbol."
+          },
+          {
+            "number": "1.2.",
+            "title": "Literasi Digital",
+            "text": "Memahami konsep dasar, manfaat, dan dampak teknologi digital, memahami sistem komputer tingkat pradasar, menerapkan pengamanan informasi pribadi dalam komunikasi daring, memanfaatkan internet, dan memproduksi serta mendiseminasi konten digital dalam bentuk teks dan gambar."
+          },
+          {
+            "number": "1.3.",
+            "title": "Literasi dan Etika Kecerdasan Artifisial",
+            "text": "Memahami konsep KA sederhana, manfaat dan dampak KA pada kehidupan sehari-hari, prinsip bahwa KA dikembangkan untuk meningkatkan kesejahteraan manusia dan tidak boleh merugikan manusia, mengetahui perbedaan manusia dan komputer dalam melakukan penginderaan, dan mengetahui perbedaan antara mesin cerdas dan mesin non-cerdas. Memahami etika dasar penggunaan KA seperti empati dan tidak menyakiti orang lain."
+          },
+          {
+            "number": "1.4.",
+            "title": "Pemanfaatan dan Pengembangan Kecerdasan Artifisial",
+            "text": "Menyimulasikan secara sederhana kerja KA saat mengenali pola, mengklasifikasi benda konkret berdasarkan sifatnya, dan mengetahui bagaimana prediksi sistem KA dipengaruhi input benda konkret."
+          }
+        ]
+      }
+    },
+    "id": "koding"
+  }
+]

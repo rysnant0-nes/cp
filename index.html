@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="id">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Capaian Pembelajaran SD/MI — Fase A–C</title>
+  <meta name="description" content="Cari teks Capaian Pembelajaran (CP) SD/MI untuk Fase A, B, dan C berdasarkan kelas dan mata pelajaran.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,500;0,600;0,700;1,400;1,600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="loading-screen" id="loading-screen" role="status" aria-live="polite">
+    <p class="loading-title">Loading CP</p>
+  </div>
+
+  <a class="skip-link" href="#hasil">Lewati ke hasil</a>
+
+  <header class="masthead">
+    <div class="wrap">
+      <h1>Capaian Pembelajaran <span>SD/MI</span></h1>
+      <p class="lede">Jelajahi capaian pembelajaran berdasarkan kelas dan mata pelajaran.</p>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <form class="controls" id="controls" role="search">
+      <div class="field">
+        <label for="kelas">Kelas</label>
+        <select id="kelas" name="kelas"></select>
+      </div>
+      <div class="field">
+        <label for="mapel">Mata pelajaran</label>
+        <select id="mapel" name="mapel"></select>
+        <p class="hint">Pilih “Semua mata pelajaran” untuk mencari di seluruh CP pada fase ini.</p>
+      </div>
+      <div class="field">
+        <label for="cari">Cari teks CP</label>
+        <input id="cari" name="cari" type="search" placeholder="Mis. pecahan, gotong royong, Jūnzĭ" autocomplete="off">
+      </div>
+    </form>
+
+    <div class="status-bar">
+      <p class="status" id="status" role="status" aria-live="polite"></p>
+    </div>
+    <div id="hasil" tabindex="-1"></div>
+
+    <section class="reference" aria-labelledby="reference-title">
+      <div class="reference-head">
+        <div>
+          <p class="subject-meta">Dokumen sumber</p>
+          <h2 id="reference-title">Referensi PDF</h2>
+        </div>
+        <a class="reference-link" href="../cp.pdf" target="_blank" rel="noopener">Buka PDF di tab baru</a>
+      </div>
+      <iframe
+        class="reference-viewer"
+        src="../cp.pdf"
+        title="Dokumen referensi Capaian Pembelajaran SD/MI"
+        loading="lazy"
+      ></iframe>
+      <div class="reference-mobile">
+        <p>Untuk membaca PDF dengan nyaman di ponsel, buka dokumen di tab baru.</p>
+        <a class="reference-mobile-link" href="../cp.pdf" target="_blank" rel="noopener">Buka PDF</a>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap">
+      <p>Sumber: Salinan Keputusan Kepala BSKAP No. 046/H/KR/2025, Lampiran II.</p>
+      <p>Teks CP ditampilkan sesuai dokumen sumber. Aplikasi ini memuat Fase A–C untuk SD/MI.</p>
+    </div>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
